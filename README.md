@@ -1,2 +1,2 @@
 # GameServer_Kit
-uh oh
+Python app with kit of starters for games servers
